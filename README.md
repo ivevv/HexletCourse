@@ -1,1 +1,1 @@
-Hello, Hexlet!
+Hexlet manual QA engineering coursework
